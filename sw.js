@@ -1,7 +1,7 @@
-importScripts('/test/workbox-v4.3.1/workbox-sw.js');
+importScripts('/workbox-v4.3.1/workbox-sw.js');
 
 workbox.setConfig({
-  modulePathPrefix: '/test/workbox-v4.3.1/',
+  modulePathPrefix: '/workbox-v4.3.1/',
 });
 
 const CACHE = "otarchive-webclient";
