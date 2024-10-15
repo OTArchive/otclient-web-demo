@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.otarchive.demo.twa",
+        "sha256_cert_fingerprints": ["12:04:56:5F:1D:19:B0:58:2D:AE:01:40:2A:93:27:2F:D0:1D:5A:01:E3:98:CD:C5:9D:3B:6E:60:32:1F:CC:30"]
+      }
+    }]
